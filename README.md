@@ -197,8 +197,8 @@ eclypse-storefront/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repo-link>
-    cd eclypse-storefront
+    git clone https://github.com/Saikumar1801/Eclypse-Storefront.git
+    cd Eclypse-Storefront
     ```
 
 2.  **Install Backend Dependencies:**
